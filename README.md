@@ -1,6 +1,6 @@
 # 🖼️ AI Image Generator
 
-An AI-powered React web app that generates images from text prompts using an external image generation API like DALL·E or Stability AI.
+An AI-powered React web app that generates images from text prompts using an external image generation API.
 
 ## 🚀 Features
 
